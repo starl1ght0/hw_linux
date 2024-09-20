@@ -1,0 +1,10 @@
+#!/bin/bash
+
+val1=3
+val2=2
+if["$val1" -gt "$val2"]
+then
+echo "$val1"
+else
+echo "$val2"
+fi
