@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sudo env /home
+echo $HOME
